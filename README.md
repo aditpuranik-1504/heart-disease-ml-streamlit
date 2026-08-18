@@ -49,7 +49,7 @@ The data comes from an ongoing cardiovascular study of residents of Framingham, 
 
 **https://github.com/aditpuranik-1504/heart-disease-ml-streamlit**
 
-**Live Streamlit App:** https://heart-disease-ml-aditi.streamlit.app
+**Live Streamlit App:** https://heart-disease-ml-aditi-2026.streamlit.app
 
 Repository structure:
 
